@@ -1,6 +1,6 @@
 # Docker Engine Playground
 
-Simple application to test the Docker Go 1.3 application
+Simple application to test the Docker Engine Go 1.3 API
 
 ### What it do:
 Will output all processes for each container running on a host
